@@ -1,0 +1,2 @@
+# autotests
+simple homework
